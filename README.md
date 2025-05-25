@@ -12,6 +12,11 @@ rustup default nightly
 
 ```
 
+if Rust Analyzer still giving error messages, run this command on project folder:
+` rustup override set nightly `
+
+Close folder on IDE, reopen folder
+
 
 ## Benchmark
 
