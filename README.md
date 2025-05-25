@@ -1,4 +1,6 @@
-# rust-avx512-benchmark
+![Rust](https://img.shields.io/badge/-Rust-red?logo=rust&logoColor=white&style=plastic)
+![TOML](https://img.shields.io/badge/-Toml-blue?logo=toml&style=plastic)
+
 AVX-512 Benchmark Comparison written in RUST
 
 IMPORTANT : Make sure your CPU has AVX-512 feature
