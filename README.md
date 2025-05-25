@@ -1,6 +1,8 @@
 # rust-avx512-benchmark
 AVX-512 Benchmark Comparison written in RUST
 
+IMPORTANT : Make sure your CPU has AVX-512 feature
+
 
 ## Requirement
 This SIMD features still experimental, so you need to use Rust nightly
